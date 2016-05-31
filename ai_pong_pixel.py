@@ -210,7 +210,7 @@ class Ball():
                         sl = sum_list.flatten()
                         have_new_input = True
                         testing_input = sl
-                        dumpimage(sl, ROWS, COLUMNS)
+                        #dumpimage(sl, ROWS, COLUMNS)
 
  
         def draw(self):
